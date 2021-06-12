@@ -1,0 +1,16 @@
+{
+  "name": "ancient-gaming",
+  "engines": {
+    "node": "14"
+  },
+  "version": "1.0.0",
+  "commitHash": "-",
+  "versionFull": "-",
+  "buildDate": "-",
+  "description": "",
+  "author": "Ahmed Hassan",
+  "devDependencies": {
+    "cypress": "^7.5.0"
+  },
+  "dependencies": {}
+}
